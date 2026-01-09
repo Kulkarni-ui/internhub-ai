@@ -65,7 +65,7 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 ---
 
 ## Live Demo
-https://internhub-ai-atharv.netlify.app/
+https://internhubai.netlify.app/
 
 ---
 

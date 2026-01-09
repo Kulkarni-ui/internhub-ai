@@ -17,7 +17,7 @@ This project focuses on AI reasoning and logic rather than complex backend syste
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. User enters:
    - Student skills
    - Internship job description
@@ -32,7 +32,7 @@ This project focuses on AI reasoning and logic rather than complex backend syste
 
 ---
 
-## 🤖 AI Concepts Used
+## AI Concepts Used
 - Rule-based AI (Expert System)
 - Basic Natural Language Processing (NLP)
 - Heuristic decision-making (ATS scoring logic)
@@ -42,15 +42,14 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 
 ---
 
-## 🧰 Tech Stack Used
+## Tech Stack Used
 - HTML
 - CSS
 - JavaScript
-- GitHub Pages (for deployment)
 
 ---
 
-## 📝 Assumptions Made
+## Assumptions Made
 - Skills are provided as comma-separated keywords
 - All skills are treated with equal weight
 - ATS score is calculated based on skill match percentage
@@ -65,10 +64,10 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 
 ---
 
-## 🌐 Live Demo
-👉 https://internhub-ai-atharv.netlify.app/
+## Live Demo
+https://internhub-ai-atharv.netlify.app/
 
 ---
 
-## 📂 GitHub Repository
-👉 https://github.com/yourusername/internhub-ai
+## GitHub Repository
+https://github.com/yourusername/internhub-ai

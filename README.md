@@ -1,13 +1,13 @@
 # InternHub AI – Internship Matching System
 
-## 📌 Project Overview
+## Project Overview
 InternHub AI is a lightweight AI-inspired internship matching system that analyzes a student’s skills against an internship job description. It identifies matched skills, skill gaps, calculates an ATS confidence score, and generates a resume summary.
 
 This project focuses on AI reasoning and logic rather than complex backend systems or paid APIs.
 
 ---
 
-## 🧠 What I Built
+## What I Built
 - Internship skill matching engine
 - Skill gap analysis
 - ATS confidence score calculation
@@ -59,16 +59,14 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 ---
 
 ## 👤 Student Details
-- **Name:** Atharv Kulkarni  
-- **Enrollment Number:** YOUR_ENROLLMENT_NUMBER  
-- **Batch:** YOUR_BATCH  
-- **University:** YOUR_UNIVERSITY_NAME  
+- **Name:** Atharv Kulkarni   
+- **Batch:** AIML
 - **Applied Role:** AI Intern / AI-Focused Internship  
 
 ---
 
 ## 🌐 Live Demo
-👉 https://yourusername.github.io/internhub-ai/
+👉 https://internhub-ai-atharv.netlify.app/
 
 ---
 

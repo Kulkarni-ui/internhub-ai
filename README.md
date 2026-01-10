@@ -57,7 +57,7 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 
 ---
 
-## 👤 Student Details
+## Student Details
 - **Name:** Atharv Kulkarni   
 - **Batch:** AIML
 - **Applied Role:** AI Intern / AI-Focused Internship  

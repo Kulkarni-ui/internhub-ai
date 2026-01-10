@@ -66,7 +66,6 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 - **Applied Role:** AI Intern / AI-Focused Internship  
 
 ---
----
 
 ## GitHub Repository
 https://github.com/yourusername/internhub-ai

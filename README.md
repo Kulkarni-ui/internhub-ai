@@ -9,6 +9,7 @@ This project focuses on AI reasoning and logic rather than complex backend syste
 ## Live Demo
 https://internhubai.netlify.app/
 ---
+---
 
 ## What I Built
 - Internship skill matching engine
@@ -18,6 +19,7 @@ https://internhubai.netlify.app/
 - Clean and minimal web interface
 - Fully frontend-based (no backend, no authentication)
 
+---
 ---
 
 ## How It Works
@@ -66,10 +68,6 @@ No external LLM or paid API is used to keep the system simple, reliable, and off
 - **Applied Role:** AI Intern / AI-Focused Internship  
 
 ---
-
-## Live Demo
-https://internhubai.netlify.app/
-
 ---
 
 ## GitHub Repository

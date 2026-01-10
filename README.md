@@ -6,6 +6,9 @@ InternHub AI is a lightweight AI-inspired internship matching system that analyz
 This project focuses on AI reasoning and logic rather than complex backend systems or paid APIs.
 
 ---
+## Live Demo
+https://internhubai.netlify.app/
+---
 
 ## What I Built
 - Internship skill matching engine
